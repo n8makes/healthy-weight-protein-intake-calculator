@@ -1,3 +1,8 @@
+/*
+    Created by @n8makes
+    https://n8makes.com
+*/
+
 // BMI calculation functions
 function calculateBMI(weight, height, unitSystem) {
     if (unitSystem === 'metric') {
